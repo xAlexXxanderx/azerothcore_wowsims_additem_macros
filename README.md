@@ -1,4 +1,4 @@
-# azerothcore_bis_list_additem_macros
+# azerothcore_wowsims_additem_macros
 
 Creating .additem macros from [WoWSims](https://wowsims.github.io/wotlk/) for [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)
 
